@@ -1,0 +1,37 @@
+html {
+    font-size: 18px;
+}
+
+body {
+    background-color: cadetblue;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-size: 1.5rem;
+}
+
+.konteiner {
+    background-color: beige;
+    width: 90%;
+    max-width: 700px;
+    min-height: 80vh;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1rem;
+}
+
+.uudis-kuupaev {
+    font-size: 0.8rem;
+    color: green;
+    font-weight: bolder;
+}
+
+p  {
+    font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+    margin-bottom: 0.3rem;
+}

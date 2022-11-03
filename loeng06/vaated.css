@@ -1,0 +1,35 @@
+body {
+    background-color: blueviolet;
+}
+
+#tahvel, #desktop {
+    display: none;
+}
+
+@media screen and (min-width: 480px) {
+    body {
+        background-color: red;
+    }
+    #tahvel {
+        display: block;
+    }
+
+    #mobiil, #desktop {
+        display: none;
+    }
+
+}
+
+@media screen and (min-width: 970px) {
+    body {
+        background-color: lightblue;
+    }
+
+    #desktop {
+        display: block;
+    }
+
+    #mobiil, #tahvel {
+        display: none;
+    }
+}

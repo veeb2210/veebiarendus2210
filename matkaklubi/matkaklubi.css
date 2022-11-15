@@ -60,6 +60,8 @@ body {
     font-family: 'Montserrat', sans-serif;
     font-weight: 800;
     text-transform: uppercase;
+    display: flex;
+    justify-content: space-between;
 }
 
 .rida h2 {
@@ -77,4 +79,10 @@ body {
 
 .pealkiri-tekstid {
     padding-top: 231px;
+}
+
+.liblikas1 {
+    margin-top: -32px;
+    width: 77px;
+    height: 66px;
 }

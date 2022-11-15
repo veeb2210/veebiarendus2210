@@ -30,3 +30,51 @@ body {
     width: 100px;
     line-height: 33px;
 }
+
+.pais-menyy {
+    font-family: 'Montserrat', sans-serif;
+	font-size: 16.67px;
+	font-weight: bold;
+	text-transform: uppercase;
+	letter-spacing: 2.67px;
+    margin-left: auto
+}
+
+.pais-menyy ul {
+    list-style-type: none;
+    justify-content: flex-end;
+}
+
+.pais-menyy li {
+    padding: 0px;
+    margin-left: 10px;
+    min-width: 100px;
+}
+
+.pais-menyy a {
+    color: #0B0B0B;
+}
+
+.rida {
+    color: #0B0B0B;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+
+.rida h2 {
+    font-size: 39.57px;
+    font-weight: 800;
+}
+.rida h1 {
+    font-size: 74.39px;
+    font-weight: 800;
+}
+.rida h3 {
+    font-size: 20.83px;
+    font-weight: 800;
+}
+
+.pealkiri-tekstid {
+    padding-top: 231px;
+}

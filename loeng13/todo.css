@@ -1,0 +1,13 @@
+body {
+    background-color: aquamarine;
+}
+
+.container {
+    margin-top: 20px;
+    background-color: white;
+}
+
+.kirjeldus {
+    font-size: 1.3rem;
+    font-weight: bolder;
+}
